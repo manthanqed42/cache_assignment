@@ -1,0 +1,7 @@
+name: 'Cache Assignment'
+type: module
+description: 'Provides a block that displays the latest 3 articles with cache invalidation.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:node
